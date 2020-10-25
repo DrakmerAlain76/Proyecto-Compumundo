@@ -1,0 +1,7 @@
+Título o nombre del
+proyecto
+"COMPUMUNDO"
+Descripción de la
+institución.-
+ES UN SISTEMA DE INFORMACION PARA LA VENTA DE COMPUTADORAS DE MANERA ONLINE
+DB TABLES
